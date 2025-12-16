@@ -1,2 +1,2 @@
 # Exercism-Backup
-redirct to [exercism.io](http://exercism.io/)
+redirect to [exercism.io](http://exercism.io/)
